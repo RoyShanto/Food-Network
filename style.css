@@ -1,3 +1,31 @@
-h1{
-    color: red;
+body{
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+.flexible-container{
+    display: flex;
+    margin: 7%;
+}
+.half-width{
+    width: 50%;
+}
+.one{
+    font-size: 55px;
+    font-weight: 700;
+    padding-top: 100px;;
+}
+h1 span{
+    color: orange;
+    size: 50px;;
+}
+.half-width img{
+    size: 100%;
+}
+a{
+    text-decoration: none;
+    background-image: linear-gradient(tomato, orange);
+    padding: 20px 50px;
+    border-radius: 40px;
+    color: white;
+    font-size: 20px;
 }
