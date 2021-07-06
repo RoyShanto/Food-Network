@@ -65,3 +65,22 @@ a{
     height: 280px;
     width: 350px;
 }
+.follow-area{
+    box-shadow: 10px 10px 50px hsl(0, 7%, 83%);
+    
+    border-radius: 20px;
+    height: 200px;
+}
+.youtube, .instagram, .dribbble{
+    text-align: left;
+    padding-left: 10%;
+    padding-right: 10%;
+    /* box-shadow: 5px 5px 50px hsla(0, 33%, 1%, 0.89); */
+}
+.youtube h1, .instagram h1, .dribbble h1{
+    font-size: 50px;
+    margin-bottom: 0px;
+}
+.youtube p, .instagram p, .dribbble p{
+    margin-top: 0px;
+}
