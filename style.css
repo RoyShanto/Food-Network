@@ -44,3 +44,24 @@ a{
 .about-me{
     padding-top: 100px;;
 }
+.my-recipies-area{
+    padding-bottom: 20px;
+    text-align: center;
+}
+.three-box{
+    display: flex;
+    margin-left: 4%;
+    margin-right: 4%;
+}
+.one-third{
+    box-shadow: 10px 10px 50px hsl(0, 7%, 83%);
+    padding: 20px;
+    border-radius: 20px;
+    margin-left: 3%;
+    margin-right: 2%;
+    height: 500px;
+}
+.one-third img{
+    height: 280px;
+    width: 350px;
+}
