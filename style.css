@@ -29,3 +29,18 @@ a{
     color: white;
     font-size: 20px;
 }
+.about-us-area{
+    background-image: url(images/shapes/7.png);
+    /* background-repeat: no-repeat; */
+    display: flex;
+    background-size: cover;
+    margin-bottom: 100px;
+}
+.about-me-img{
+    height: 500px;
+    margin-left: 240px;
+    margin-top: 60px;
+}
+.about-me{
+    padding-top: 100px;;
+}
